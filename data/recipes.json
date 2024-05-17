@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "chef_id": 1,
+      "title": "Beef Wellington",
+      "image": "./images/foods/beef_wellington.jpeg",
+      "rating": 9.8,
+      "description": "A classic British dish featuring tender beef fillet wrapped in puff pastry. The beef is seasoned with mustard, mushrooms, and herbs, then wrapped in prosciutto and puff pastry before baking to perfection. It's an elegant dish, perfect for special occasions or a luxurious dinner at home. Serve with roasted vegetables and a rich red wine sauce for a truly indulgent meal."
+    },
+    {
+      "id": 2,
+      "chef_id": 1,
+      "title": "Risotto",
+      "image": "./images/foods/risotto.jpeg",
+      "rating": 9.6,
+      "description": "Creamy Italian rice dish cooked to perfection with Arborio rice and flavorful broth. The risotto is slowly cooked with onions, garlic, white wine, and Parmesan cheese until creamy and luxurious. It's a comforting and versatile dish that can be customized with your favorite ingredients like mushrooms, seafood, or vegetables. Garnish with fresh herbs and extra Parmesan cheese for an extra touch of flavor."
+    },
+    {
+      "id": 3,
+      "chef_id": 1,
+      "title": "Beef Burger",
+      "image": "./images/foods/beef_burger.jpeg",
+      "rating": 9.3,
+      "description": "Juicy beef patty served on a toasted bun with fresh toppings and special sauce. The beef is seasoned with salt and pepper, grilled to perfection, and topped with lettuce, tomato, onion, and a tangy burger sauce. It's a classic American favorite, perfect for a backyard barbecue or casual dinner. Serve with crispy fries or a side salad for a satisfying meal."
+    },
+    {
+      "id": 4,
+      "chef_id": 2,
+      "title": "Roast Chicken",
+      "image": "./images/foods/Roast_Chicken.jpeg",
+      "rating": 9.4,
+      "description": "A comforting and classic dish featuring tender and flavorful whole chicken roasted with herbs and vegetables. The chicken is seasoned with olive oil, salt, pepper, and herbs, then roasted until golden brown and juicy. Serve with roasted potatoes, carrots, and onions for a hearty and delicious meal. This roast chicken recipe is perfect for Sunday dinner with the family or a special occasion."
+    },
+    {
+      "id": 5,
+      "chef_id": 2,
+      "title": "Pasta Carbonara",
+      "image": "./images/foods/pasta_carbonara.jpeg",
+      "rating": 9.7,
+      "description": "A creamy and indulgent Italian pasta dish made with eggs, cheese, pancetta, and black pepper. The pasta is cooked until al dente, then tossed with crispy pancetta, eggs, Parmesan cheese, and black pepper for a rich and velvety sauce. It's a comforting and satisfying meal that's quick and easy to make. Serve with a side salad and crusty bread for a complete and delicious dinner."
+    },
+    {
+      "id": 6,
+      "chef_id": 2,
+      "title": "Chocolate Brownies",
+      "image": "./images/foods/chocolate_brownies.jpeg",
+      "rating": 9.0,
+      "description": "Decadent and fudgy chocolate brownies with a rich and intense chocolate flavor. These brownies are made with melted chocolate, butter, sugar, eggs, and flour, then baked until fudgy and delicious. They're perfect for satisfying your chocolate cravings and are sure to be a hit with family and friends. Enjoy them warm with a scoop of vanilla ice cream for an extra indulgent treat. This chocolate brownie recipe is a must-try for all chocolate lovers."
+    },
+    {
+      "id": 7,
+      "chef_id": 3,
+      "title": "Lemon Drizzle Cake",
+      "image": "./images/foods/lemon_drizzle_cake.jpeg",
+      "rating": 9.8,
+      "description": "A moist and tangy lemon cake soaked in a sweet lemon syrup for extra flavor and moisture. The cake is made with lemon zest, lemon juice, butter, sugar, eggs, and flour, then baked until golden and fragrant. Once cooled, it's drizzled with a lemon syrup made with lemon juice and sugar, adding a delicious tangy sweetness to every bite. Serve this lemon drizzle cake with a cup of tea for the perfect afternoon treat."
+    },
+    {
+      "id": 8,
+      "chef_id": 3,
+      "title": "Spaghetti Bolognese",
+      "image": "./images/foods/spaghetti_bolognese.jpeg",
+      "rating": 9.5,
+      "description": "A classic Italian pasta dish with a rich and savory meat sauce. The sauce is made with ground beef, onions, garlic, tomatoes, herbs, and red wine, then simmered until thick and flavorful. Serve over cooked spaghetti for a comforting and satisfying meal that's perfect for family dinners or entertaining guests. Garnish with fresh basil and Parmesan cheese for an extra touch of flavor. This spaghetti Bolognese recipe is sure to become a favorite in your household."
+    },
+    {
+      "id": 9,
+      "chef_id": 3,
+      "title": "Chocolate Mousse",
+      "image": "./images/foods/chocolate_mousse.jpeg",
+      "rating": 9.7,
+      "description": "Decadent chocolate mousse made with dark chocolate and whipped cream. The chocolate is melted and folded into whipped cream until light and fluffy, then chilled until set. Serve in individual glasses for an elegant dessert that's perfect for dinner parties or special occasions. Garnish with chocolate shavings or fresh berries for a beautiful presentation. This chocolate mousse recipe is easy to make and will impress your guests with its rich and velvety texture."
+    },
+    {
+      "id": 10,
+      "chef_id": 4,
+      "title": "Grilled Steak",
+      "image": "./images/foods/grilled_steak.jpeg",
+      "rating": 9.2,
+      "description": "Perfectly grilled steak seasoned with a blend of spices and herbs. The steak is seasoned with salt, pepper, garlic powder, onion powder, and paprika, then grilled to your desired level of doneness for a flavorful and juicy steak. Serve with your favorite sides like mashed potatoes, grilled vegetables, or a crisp salad for a delicious and satisfying meal. This grilled steak recipe is great for summer cookouts or weeknight dinners with the family."
+    },
+    {
+      "id": 11,
+      "chef_id": 4,
+      "title": "BBQ Ribs",
+      "image": "./images/foods/bbq_ribs.jpg",
+      "rating": 9.1,
+      "description": "Tender pork ribs coated in a smoky barbecue sauce and slow-cooked to perfection. The ribs are seasoned with a dry rub, then smoked low and slow until tender. Finish with a tangy barbecue sauce for finger-licking good ribs. Serve with coleslaw, baked beans, or cornbread for a classic barbecue feast. This BBQ ribs recipe is perfect for backyard parties, game day celebrations, or anytime you're craving delicious and comforting barbecue."
+    },
+    {
+      "id": 12,
+      "chef_id": 4,
+      "title": "Guacamole",
+      "image": "./images/foods/guacamole.jpeg",
+      "rating": 9.3,
+      "description": "Fresh and flavorful guacamole made with ripe avocados, lime juice, cilantro, and spices. The avocados are mashed until creamy, then mixed with lime juice, salt, pepper, cilantro, onions, tomatoes, and jalapenos for a vibrant and delicious dip. Serve with tortilla chips, tacos, or grilled meats for a tasty appetizer or snack. This guacamole recipe is quick and easy to make and is sure to be a hit at your next gathering."
+    },
+    {
+      "id": 13,
+      "chef_id": 5,
+      "title": "Roast Beef",
+      "image": "./images/foods/roast_beef.jpeg",
+      "rating": 9.6,
+      "description": "Tender and juicy roast beef served with a flavorful homemade gravy. The beef is seasoned with salt, pepper, and herbs, then roasted until perfectly medium-rare. Serve with a rich gravy made from pan drippings for a comforting and satisfying meal. This roast beef recipe is perfect for Sunday dinners with the family or special occasions like holidays. Pair with mashed potatoes, roasted vegetables, and a glass of red wine for a truly delicious meal."
+    },
+    {
+      "id": 14,
+      "chef_id": 5,
+      "title": "Shrimp Scampi",
+      "image": "./images/foods/shrimp_scampi.jpeg",
+      "rating": 9.8,
+      "description": "Delicious shrimp sautéed in garlic butter and white wine, served over pasta. The shrimp are cooked in butter, garlic, and white wine until pink and opaque, then tossed with cooked pasta and fresh parsley for a simple yet elegant meal. Serve with a side of crusty bread for soaking up the delicious sauce. This shrimp scampi recipe is quick and easy to make, perfect for busy weeknights or special occasions."
+    },
+    {
+      "id": 15,
+      "chef_id": 5,
+      "title": "Apple Pie",
+      "image": "./images/foods/apple_pie.jpg",
+      "rating": 9.9,
+      "description": "Classic American dessert featuring tender apples baked in a flaky pastry crust. The pie crust is made with flour, butter, sugar, salt, and ice water, then filled with sliced apples tossed with sugar, cinnamon, and lemon juice before baking until golden and bubbly. Serve warm with a scoop of vanilla ice cream for the perfect ending to any meal. This apple pie recipe is a timeless favorite that's sure to please everyone at your table."
+    }
+  ]
+  
