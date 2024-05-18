@@ -7,8 +7,13 @@ const data = require("./data/data.json");
 const recipes = require("./data/recipes.json");
 const chef = require("./data/chef.json");
 
-app.use(cors());
+const corsOptions ={
+  origin:'http://localhost:5173/', 
+  credentials:true,
+  optionSuccessStatus:200,
+}
 
+app.use(cors(corsOptions))
 app.get("/", (req, res) => {
   res.send(data);
 });
@@ -36,5 +41,5 @@ app.get("/recipes/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("server is running on port: ", port);
+  console.log(`server is running on port:  ${port}`);
 });
