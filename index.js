@@ -7,13 +7,8 @@ const data = require("./data/data.json");
 const recipes = require("./data/recipes.json");
 const chef = require("./data/chef.json");
 
-const corsOptions ={
-  origin:'http://localhost:5173/', 
-  credentials:true,
-  optionSuccessStatus:200,
-}
 
-app.use(cors(corsOptions))
+app.use(cors())
 app.get("/", (req, res) => {
   res.send(data);
 });
